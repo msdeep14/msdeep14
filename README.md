@@ -1,15 +1,12 @@
 ## About
 
 Hi there 👋 I'm Mandeep :eyeglasses: ,the explorer.
-- 🔭 I’m currently working With Amazon.
-- 🌱 I’m currently exploring software development design prospects to optimize the workflows.
-
-### Quick Review
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=msdeep14&theme=tokyonight&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msdeep14&layout=compact&theme=tokyonight)
+- 🔭 Experience - SDE at Amazon.
+- 🌱 In my free time, I explore software development design prospects to optimize the workflows plus I make videos on my [YouTube channel](https://www.youtube.com/channel/UC5GDb4oVOCxUESy0dZOieIw) to help around.
 
 ## :mailbox: Get in touch
 *  :point_right:  <a href="https://www.linkedin.com/in/msdeep14">LinkedIn </a> 
+*  :point_right:  <a href="https://www.instagram.com/msdeep14/">Instagram </a>  
 
 
 <!--
