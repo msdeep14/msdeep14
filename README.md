@@ -1,7 +1,7 @@
 ## About
 
 Hi there 👋 I'm Mandeep :eyeglasses: ,the explorer.
-- 🔭 Experience - SDE at Amazon.
+- 🔭 Experience - Software Engineer @Amazon.
 - 🌱 In my free time, I explore software development design prospects to optimize the workflows plus I make videos on my [YouTube channel](https://www.youtube.com/channel/UC5GDb4oVOCxUESy0dZOieIw) to help around.
 
 ## :mailbox: Get in touch
