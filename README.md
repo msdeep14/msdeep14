@@ -1,12 +1,16 @@
-## About
+# Hi there 👋  I'm Mandeep Singh Shekhawat...
 
-Hi there 👋 I'm Mandeep :eyeglasses: ,the explorer.
-- 🔭 Experience - Software Engineer @Amazon.
-- 🌱 In my free time, I explore software development design prospects to optimize the workflows plus I make videos on my [YouTube channel](https://www.youtube.com/channel/UC5GDb4oVOCxUESy0dZOieIw) to help around.
+## Who is Mandeep???
+- Professional Experience :computer: - Software Engineer @Amazon.
+- Spend my time learning and deep diving into Large Scale Distributed Systems.
+- In my free time, I explore the field of content creation and make videos on my [YouTube channel](https://www.youtube.com/channel/UC5GDb4oVOCxUESy0dZOieIw) to help around. Don't forget to subscribe if you're into learning Distributed Systems and cloud.
 
 ## :mailbox: Get in touch
 *  :point_right:  <a href="https://www.linkedin.com/in/msdeep14">LinkedIn </a> 
 *  :point_right:  <a href="https://www.instagram.com/msdeep14/">Instagram </a>  
+*  :point_right:  <a href = "mailto: msdeep14.ms@gmail.com">Send Email</a>
+
+If you liked my work, follow me on GitHub and subscribe to my channel. Thanks for visiting 🙌
 
 
 <!--
