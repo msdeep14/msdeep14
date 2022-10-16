@@ -46,7 +46,7 @@
 <li><b>Domain Knowledge - </b>Software Development, Distributed Systems, Microservices, Design Patterns</li>
 <li><b>Programming Languages - </b>Java, Python, C++, Javascript</li>
 <li><b>Tools - </b>git, AWS, Linux, CDK</li>
-<li><b>AWS Cloud - </b>EC2, ECS Fargate, Lambda, DynamoDB, RDS, Cloudwatch, OpenSearch, SQS, SNS, VPC, Route53, IAM</li>
+<li><b>Applications setup and operations in AWS Cloud </b></li>
 </ul>
 </p>
 
