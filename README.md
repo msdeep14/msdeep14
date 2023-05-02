@@ -22,9 +22,9 @@
 <h2>Who is Mandeep? </h2>
 <p> 
 <ul> 
-<li>Software Engineer @Amazon. </li>
+<li>Software Engineer @Jupiter. </li>
 <li>Spend my time learning and deep diving into Large Scale Distributed Systems and cloud technologies. </li>
-<li> I share my learning via YouTube videos on my <a href="https://www.youtube.com/channel/UC5GDb4oVOCxUESy0dZOieIw">YouTube Channel</a> to help around.</li>
+<li> I share my learning via videos on my <a href="https://www.youtube.com/channel/UC5GDb4oVOCxUESy0dZOieIw">YouTube Channel</a> to help around.</li>
 </ul>
 </p>
 
@@ -33,13 +33,11 @@
 <p> 
 <ul> 
 <li><b>Domain Knowledge - </b>Software Development, Distributed Systems, Microservices, Design Patterns</li>
-<li><b>Programming Languages - </b>Java, Python, C++, Javascript</li>
-<li><b>Tools - </b>git, AWS, Linux, CDK</li>
+<li><b>Programming Languages - </b>Java, Python, C++, Kotlin</li>
+<li><b>Tools - </b>git, AWS Cloud, Linux, CDK</li>
 <li><b>Applications setup and operations in AWS Cloud </b></li>
 </ul>
 </p>
-
-
 
 
 If you liked my work, follow me on GitHub and subscribe to my channel. Thanks for visiting 🙌
