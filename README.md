@@ -22,9 +22,9 @@
 <h2>Who is Mandeep? </h2>
 <p> 
 <ul> 
-<li>Software Engineer @Jupiter. </li>
+<li>Software Engineer by profession. </li>
 <li>Spend my time learning and deep diving into Large Scale Distributed Systems and cloud technologies. </li>
-<li> I share my learning via videos on my <a href="https://www.youtube.com/channel/UC5GDb4oVOCxUESy0dZOieIw">YouTube Channel</a> to help around.</li>
+<li> I also share my learnings and deep dive via videos on my <a href="https://www.youtube.com/channel/UC5GDb4oVOCxUESy0dZOieIw">YouTube Channel</a> to help around.</li>
 </ul>
 </p>
 
