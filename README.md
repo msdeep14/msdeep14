@@ -24,7 +24,8 @@
 <ul> 
 <li>Software Engineer by profession. </li>
 <li>Spend my time learning and deep diving into Large Scale Distributed Systems and cloud technologies. </li>
-<li> I also share my learnings and deep dive via videos on my <a href="https://www.youtube.com/channel/UC5GDb4oVOCxUESy0dZOieIw">YouTube Channel</a> to help around.</li>
+<li> I share my learnings and deep dive via videos on my <a href="https://www.youtube.com/channel/UC5GDb4oVOCxUESy0dZOieIw">YouTube Channel</a> to help around.</li>
+<li> Writing a book <a href="https://www.oreilly.com/library/view/learning-system-design/9781098146887/"><b>System Design on AWS</b></a> helpful in understanding key AWS services, system design and building highly performant and cost-optimized architectures on AWS Cloud.</li>
 </ul>
 </p>
 
@@ -34,7 +35,7 @@
 <ul> 
 <li><b>Domain Knowledge - </b>Software Development, Distributed Systems, Microservices, Design Patterns</li>
 <li><b>Programming Languages - </b>Java, Python, C++, Kotlin</li>
-<li><b>Tools - </b>git, AWS Cloud, Linux, CDK</li>
+<li><b>Tools - </b>Springboot, git, AWS Cloud, Linux, CDK</li>
 <li><b>Applications setup and operations in AWS Cloud </b></li>
 </ul>
 </p>
