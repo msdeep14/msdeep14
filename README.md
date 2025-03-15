@@ -22,18 +22,26 @@
 <h2>Who is Mandeep? </h2>
 <p> 
 <ul> 
-<li>Software Engineer by profession. </li>
-<li>Spend my time learning and deep diving into Large Scale Distributed Systems and cloud technologies. </li>
-<li> I share my learnings and deep dive via videos on my <a href="https://www.youtube.com/channel/UC5GDb4oVOCxUESy0dZOieIw">YouTube Channel</a> to help around.</li>
-<li> Writing a book <a href="https://www.oreilly.com/library/view/learning-system-design/9781098146887/"><b>System Design on AWS</b></a> helpful in understanding key AWS services, system design and building highly performant and cost-optimized architectures on AWS Cloud.</li>
+<li>Software Engineer </li>
+<li>Spend my time learning and deep diving into large scale systems and cloud technologies. </li>
+<li> I share my learnings and deep dive via videos on my <a href="https://www.youtube.com/channel/UC5GDb4oVOCxUESy0dZOieIw">YouTube Channel</a>.</li>
+<li> In partnership with O'Reilly, wrote a book - <a href="https://oreil.ly/ruQbc"><b>System Design on AWS</b></a>. This book is a hands-on guide to designing scalable, resilient, and cost-efficient architectures on AWS—perfect for engineers, architects, and cloud enthusiasts looking to level up their system design skills.</li>
 </ul>
+</p>
+
+<p>
+<li> 
+  <a rel="sponsored"
+           href="https://oreillymedia.pxf.io/c/5915786/2322629/15173" target="_top" id="2322629">
+<img src="//a.impactradius-go.com/display-ad/15173-2322629" border="0" alt="" width="250" height="328"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5915786/2322629/15173" style="position:absolute;visibility:hidden;" border="0" />
+  </li>
 </p>
 
 <h2>My Knowledge base</h2>
 
 <p> 
 <ul> 
-<li><b>Domain Knowledge - </b>Software Development, Distributed Systems, Microservices, Design Patterns</li>
+<li><b>Domain Knowledge - </b>Software Development, Distributed Systems, Microservices, Design Patterns, Cloud Infrastructure, E-commerce logistics and Payments</li>
 <li><b>Programming Languages - </b>Java, Python, C++, Kotlin</li>
 <li><b>Tools - </b>Springboot, git, AWS Cloud, Linux, CDK</li>
 <li><b>Applications setup and operations in AWS Cloud </b></li>
