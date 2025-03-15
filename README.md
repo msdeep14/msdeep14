@@ -29,15 +29,7 @@
 </ul>
 </p>
 
-<p>
-<li> 
-  <a rel="sponsored"
-           href="https://oreillymedia.pxf.io/c/5915786/2322629/15173" target="_top" id="2322629">
-<img src="//a.impactradius-go.com/display-ad/15173-2322629" border="0" alt="" width="250" height="328"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5915786/2322629/15173" style="position:absolute;visibility:hidden;" border="0" />
-  </li>
-</p>
-
-<h2>My Knowledge base</h2>
+<h2>I'm good at...</h2>
 
 <p> 
 <ul> 
